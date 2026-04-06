@@ -28,7 +28,7 @@ export const tools = [
     id: 4,
     name: "PDF Editing Tool",
     description: "Edit PDF files online(Convert, edit, merge, split, compress)",
-    icon:"	https://tools.pdf24.org/static/img/pageIcons/svg/default.svg?v=5cae54fd",
+    icon:"https://tools.pdf24.org/static/img/pageIcons/svg/default.svg?v=5cae54fd",
     category: "Document",
     url: "https://tools.pdf24.org/en/",
   },
