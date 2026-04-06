@@ -23,4 +23,13 @@ export const tools = [
     category: "Video",
     url: "https://v1.ytmp3.gs/",
   },
+
+  {
+    id: 4,
+    name: "PDF Editing Tool",
+    description: "Edit PDF files online(Convert, edit, merge, split, compress)",
+    icon:"/src/assets/tools/pdf.png",
+    category: "Document",
+    url: "https://tools.pdf24.org/en/",
+  },
 ];
