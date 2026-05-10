@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./readme_assets/logo.png">
+<img src="./src/assets/logo.png">
 
 # Tool Verse
 
