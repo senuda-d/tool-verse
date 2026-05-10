@@ -4,7 +4,7 @@ import AI_VERSE_LOGO from "../assets/imgs/ai-verse.png"
 function AIVerseButton() {
     return (
         <div className="ai-verse">
-            <a href="https://a-i-verse.netlify.app">
+            <a href="https://ai-verse-tools.netlify.app/">
                 <img src={AI_VERSE_LOGO} alt="AI Verse" />
                 <p>AI Verse</p>
             </a>
